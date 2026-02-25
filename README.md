@@ -9,4 +9,4 @@ In addition, this was a chance to use [JavaScript](https://www.ecma-internationa
 
 <hr>
 
-[&#128279; permalink](https://psb-david-petty.github.io/rg-quotations/) and [&#128297; repository](https://github.com/psb-david-petty/rg-quotations/) for this page.
+[&#128279; permalink](https://dcpetty.github.io/rgq/) and [&#128297; repository](https://github.com/dcpetty/rgq/) for this page.
